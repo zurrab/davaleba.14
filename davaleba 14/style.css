@@ -1,0 +1,269 @@
+     *{
+      box-sizing: border-box;
+     }
+     body{
+      margin: 0;
+     }
+     @font-face {
+         font-family: "montserrat";
+         src: url(./fonts/Montserrat-Bold.ttf);
+      }
+      .text-1{
+         color: black;
+         font-family: "Montserrat";
+         font-size: 24px;
+         padding-left: 195px;  
+         padding-top: 30px;
+         text-decoration: none;
+      }
+      .text-2{
+         padding-left : 120px ;
+         padding-top: 33px;
+         font-family: "Montserrat";
+         font-size: 14px;
+         color: #737373;
+         text-decoration: none;
+      }
+      .text-3{
+         font-family: "Montserrat";
+         font-size: 14px;
+         color: #737373;
+         text-decoration: none;
+         padding-top: 33px;
+         padding-left: 21px;
+      }
+      .text-4{
+         font-family: "Montserrat";
+         font-size: 14px;
+         color: #737373;
+         text-decoration: none;
+         padding-top: 33px;
+         padding-left: 21px;
+      }
+      .text-5{
+         font-family: "Montserrat";
+         font-size: 14px;
+         color: #737373;
+         text-decoration: none;
+         padding-top: 33px;
+         padding-left: 21px;
+      }
+      .text-6{
+         font-family: "Montserrat";
+         font-size: 14px;
+         color:#23A6F0;
+         text-decoration: none;
+         padding-top: 34px;
+         padding-left: 240px;
+      }
+      .buttom-1{
+         background-color: #00A0C1;
+         width: 214px;
+         height: 52px;
+         border-radius: 5px;
+         color: #FFFFFF;
+         font-family: "Montserrat";
+         margin-left: 45px;
+         padding-left: 25px;
+         margin-top: 19px;
+         padding-top: 15px;
+         text-decoration: none;
+         font-size: 14px;
+         }
+      
+      
+      .text-7{
+         margin-top:  154px; 
+         margin-left: 195px;
+         font-family: "Montserrat";
+         font-size: 16px;
+      }
+      .text-8{
+         margin-top:  35px; 
+         margin-left: 195px;
+         font-family: "Montserrat";
+         font-size: 58px;
+      }
+      .text-9{
+         color: #737373;
+         margin-top:  35px; 
+         margin-left: 195px;
+         font-family: "Montserrat";
+         font-size: 20px;
+      }
+      
+      .text-10{
+         margin-top:  35px; 
+         margin-left: 195px;
+         font-family: "Montserrat";
+         font-size: 24px;
+      }
+      .text-11{
+         margin-top:  35px; 
+         margin-left: 195px;
+         font-family: "Montserrat";
+         font-size: 24px;
+      }
+      .picture-1{
+         margin-left: 205px;
+         margin-top: 45px;
+      }
+      .picture-2{
+         padding-left: 34px;
+         margin-top: 45px;
+      }
+      .picture-3{
+         padding-left: 34px;
+         margin-top: 45px;
+      }
+      .picture-4{
+         padding-left: 34px;
+         margin-top: 45px;
+      }
+      .text-12{
+         padding-top:  112px; 
+         font-family: "Montserrat";
+         font-size: 14px;
+         color: #252B42;
+      }
+      .text-13{
+         margin-top:  10px; 
+         font-family: "Montserrat";
+         font-size: 40px;
+         color: #252B42;
+      }
+      .text-14{
+         margin-top:  15px; 
+         font-family: "Montserrat";
+         font-size: 14px;
+         color: #252B42;
+      }
+      .text-15{
+         font-family: "Montserrat";
+         font-size: 14px;
+         color: #252B42;
+      }
+      .text-16{
+         margin-top:  15px; 
+         font-family: "Montserrat";
+         font-size: 16px;
+         color: #252B42;
+      }
+      .buttom-2{
+         background-color: inherit;
+         border-width: 1px;
+         width: 185px;
+         height: 48px;
+         border-radius: 37px;
+         border-style: solid;
+         font-family: "Montserrat";
+         display: flex;
+         align-items: center;
+         color: #23A6F0;
+         font-size: 14px;
+         justify-content: center;
+         border-color: #23A6F0;
+      }
+      .text-17{
+         margin-top:  15px; 
+         font-family: "Montserrat";
+         font-size: 14px;
+         color: #FFFFFF;
+      }
+      .text-18{
+         margin-top:  15px; 
+         font-family: "Montserrat";
+         font-size: 14px;
+         color: #FFFFFF;
+      }
+      .text-19{
+         margin-top:  15px; 
+         font-family: "Montserrat";
+         font-size: 16px;
+         color: #FFFFFF;
+      }
+      .buttom-3{
+         border-color: #23A6F0;
+         background-color: inherit;
+         border-width: 1px;
+         width: 185px;
+         height: 48px;
+         border-radius: 37px;
+         border-style: solid;
+         font-family: "Montserrat";
+         display: flex;
+         align-items: center;
+         color: #23A6F0;
+         font-size: 14px;
+         justify-content: center;
+      }
+      .text-20{
+         margin-top:  19px; 
+         font-family: "Montserrat";
+         font-size: 16px;
+         color: #252B42;
+      }
+      .text-21{
+         margin-top: 16px;
+         color:#252B42 ;
+         font-family: "Montserrat";
+      }
+      .buttom-4{
+         border-color: #23A6F0;
+         background-color: #23A6F0   ;
+         border-width: 1px;
+         width: 185px;
+         height: 48px;
+         border-radius: 5px;
+         border-style: solid;
+         font-family: "Montserrat";
+         display: flex;
+         align-items: center;
+         color: #FFFFFF;
+         font-size: 14px;
+         justify-content: center;
+      }
+   .text-22{
+         margin-top:  53px; 
+         padding-left: 195px;
+         font-family: "Montserrat";
+         font-size: 24px;
+         
+   }
+   .grid-box div {
+      font-family: "Montserrat";
+      padding: 10px ;
+      font-size: 14px;
+      color: #737373;
+  }
+
+.email{
+   width: 204px;
+   height: 58px;
+   background-color:#E6E6E6 ;
+   padding-left: 20px;
+   border: none;
+  
+}
+.Subscribe{
+   border: none;
+   color: #FFFFFF;
+   width: 117px;
+   height: 58px;
+   background-color: #23A6F0;
+}
+.container-6{
+   width: 321px;
+   height: 58px;
+   border-radius: 5px;
+}
+.text-23{
+   font-size: 14px;
+   font-family: "Montserrat";
+   color: #737373;
+   padding-top: 25px;
+}
+.border-bottom{
+   width: 1057px;
+    margin-left: 195px;
+}
